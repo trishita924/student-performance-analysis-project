@@ -11,6 +11,7 @@ The analysis was performed using Python and focuses on data cleaning, explorator
 The project uses the Student Performance Factors dataset from Kaggle.
 
 The dataset contains information about students such as:
+
 - Hours Studied
 - Attendance
 - Previous Scores
