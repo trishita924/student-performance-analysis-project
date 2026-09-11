@@ -4,6 +4,8 @@
 
 This project analyzes student performance data to understand how different academic and personal factors are associated with exam scores.
 
+Dataset Source: [Kaggle - Student Performance Factors](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors)
+
 The analysis was performed using Python and focuses on data cleaning, exploratory data analysis, and visualization.
 
 ## Dataset
@@ -67,3 +69,4 @@ This project was created as a beginner-level data analysis project to practice P
 ## Project Notebook
 
 The complete analysis and visualizations are available in the Jupyter Notebook included in this repository.
+The notebook includes data cleaning, exploratory data analysis, statistical analysis, and visualizations using Python.
